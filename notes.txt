@@ -1,0 +1,39 @@
+Here’s the colors from the mockups:
+
+primary: {
+
+      main: "#ffffff",
+
+    },
+
+    secondary: {
+
+      // blue
+
+      main: '#00263a',
+
+    },
+
+    third: {
+
+      // green
+
+      main: '#71bb42',
+
+    },
+
+    fourth: {
+
+      // light blue
+
+      main: '#ccecfc',
+
+    },
+
+    fifth: {
+
+      // aqcuia blue
+
+      main: '#84aec2',
+
+    },

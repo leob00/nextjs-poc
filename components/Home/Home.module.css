@@ -1,0 +1,16 @@
+/*https://www.joshwcomeau.com/gradient-generator/ */
+.blueGradient {
+    background-image: linear-gradient(
+      150deg,
+      hsl(201deg 100% 11%) 0%,
+      hsl(200deg 93% 17%) 41%,
+      hsl(200deg 85% 23%) 65%,
+      hsl(200deg 78% 29%) 78%,
+      hsl(200deg 71% 35%) 86%,
+      hsl(200deg 63% 41%) 91%,
+      hsl(200deg 56% 46%) 94%,
+      hsl(199deg 48% 52%) 97%,
+      hsl(200deg 41% 58%) 98%,
+      hsl(199deg 34% 64%) 100%
+    );
+  }
